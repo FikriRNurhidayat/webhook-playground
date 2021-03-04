@@ -1,0 +1,14 @@
+{
+  "name": "webhook-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fikri Rahmat Nurhidayat <FikriRNurhidayat@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
